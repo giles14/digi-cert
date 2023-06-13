@@ -1,0 +1,7 @@
+{
+    "require": {
+        "league/plates": "^3.5",
+        "bramus/router": "^1.6",
+        "symfony/yaml": "^5.4"
+    }
+}
